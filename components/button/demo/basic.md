@@ -11,4 +11,4 @@ title:
 
 ## en-US
 
-There are `primary` button, `default` button, `dashed` button, `text` button and `link` button in antd.
+There are `Testy` button, `default` button, `dashed` button, `text` button and `link` button in antd.

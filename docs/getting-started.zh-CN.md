@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 101
 title: 快速上手
 ---
 

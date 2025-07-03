@@ -1,10 +1,9 @@
 ---
-order: 108
-title: Animations Switch
+order: 0
+title: WelTel - Our Brand
 ---
 
-NG-ZORRO allows developers to turn off the animations. You can set animations' switch by adding corresponding directives or
-configurations, or use the global configuration to turn off all animations associated with it.
+This is a test page to see if it is possible to create a page for WelTel's information.
 
 ### Turn Off Globally
 

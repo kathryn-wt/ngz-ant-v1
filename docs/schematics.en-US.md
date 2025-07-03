@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 102
 title: Schematics
 ---
 Using a CLI helps initialize projects, generate template codes and reduce development time.
