@@ -6,7 +6,7 @@ import { NzButtonModule } from 'ng-zorro-antd/button';
   selector: 'nz-demo-button-basic',
   imports: [NzButtonModule],
   template: `
-    <button nz-button nzType="primary">Primary Button</button>
+    <button nz-button nzType="primary">i am Button</button>
     <button nz-button nzType="default">Default Button</button>
     <button nz-button nzType="dashed">Dashed Button</button>
     <button nz-button nzType="text">Text Button</button>
@@ -17,6 +17,7 @@ import { NzButtonModule } from 'ng-zorro-antd/button';
       [nz-button] {
         margin-right: 8px;
         margin-bottom: 12px;
+        border-radius: 10px;
       }
     `
   ]

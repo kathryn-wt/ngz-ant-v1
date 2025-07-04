@@ -1,3 +1,5 @@
+//GLOBAL STYLES
+
 /* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
 @import '../color/colors';
 
@@ -14,7 +16,7 @@
 
   // ========= Primary Color =========
   --@{ant-prefix}-primary-color: @base-primary;
-  --@{ant-prefix}-primary-color-hover: color(colorPalette('@{base-primary}', 5));
+  --@{ant-prefix}-primary-color-hover: @purple-base; //hover for all elements; buttons, dropdown, random links, text box for autocomplete when text box is selected,
   --@{ant-prefix}-primary-color-active: color(colorPalette('@{base-primary}', 7));
   --@{ant-prefix}-primary-color-outline: fade(@base-primary, @outline-fade);
 

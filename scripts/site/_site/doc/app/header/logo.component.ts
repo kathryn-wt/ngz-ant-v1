@@ -5,16 +5,8 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
   changeDetection: ChangeDetectionStrategy.OnPush,
   template: `
     <a href="/" id="logo">
-      <img width="32" height="28.27" alt="logo" src="./assets/img/logo.svg"/>
-      <strong>NG-ZORRO</strong>
+      <img width="100" height="57.41" alt="logo" src="./assets/img/weltel-final-logo.svg"/>
     </a>
-  `,
-  styles: [
-    `
-      #logo strong {
-        font-weight: 500;
-      }
-    `
-  ]
+  `
 })
 export class LogoComponent {}
