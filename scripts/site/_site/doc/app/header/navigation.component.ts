@@ -12,7 +12,7 @@ import { NzMenuModule } from 'ng-zorro-antd/menu';
   template: `
     <li nz-menu-item [nzSelected]="page === 'docs'">
       <a [routerLink]="['docs', 'introduce', language]">
-        <span>{{ language == 'zh' ? '文档' : 'Docs' }}</span>
+        <span>{{ language == 'zh' ? '文档' : 'Our Brand' }}</span>
       </a>
     </li>
     <li nz-menu-item [nzSelected]="page === 'components'">

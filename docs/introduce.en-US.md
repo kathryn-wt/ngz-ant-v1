@@ -18,22 +18,18 @@ WelTel’s design system blends core SaaS design principles with brand identity 
 ## How is it structured?
 
 ### Who we are
-
 Core values, vision, and mission that guide our design philosophy.
 
 We ensure no one is left behind by designing solutions that serve all individuals, regardless of their circumstances.
 
 
 ### Brand
-
 Visual identity elements such as logo, color palette, iconography, button styles, typography, and tone for marketing and web.
 
 
 ### Platform Design
-
 UI-specific applications of the brand, including layout structure, typography, and voice tailored for the product.
 
 
 ### Components
-
 A library of reusable components—such as buttons, forms, tables, and modals—each with clear documentation on usage guidelines, design principles, code snippets, and configurable properties. The library also includes shared global elements like color tokens, typography styles, and spacing rules to ensure consistency across the platform.

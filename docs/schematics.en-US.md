@@ -1,8 +1,48 @@
 ---
-order: 2
-title: Our Mission
+order: 4
+title: Our Brand
 ---
 
-To empower individuals and communities to take charge of their health through simple, accessible, patient-centered digital communication solutions that bridge gaps in care, foster trust, and promote health equity.
+The brand section defines our visual and verbal identity—logo, colours, typography, and tone. To maintain consistency and trust, always follow the guidelines outlined below.
 
-WelTel was founded by passionate public health professionals determined to address the world’s most pressing health challenges. By harnessing the ubiquity of mobile technology and championing health and language equity, we create meaningful, accessible connections between patients and care teams. Drawing on over 20 years of real-world conversational health data, WelTel delivers proven tools for patient follow-up, engagement, and precision care, ensuring no one is left behind.
+## Logos
+
+### Word mark logo
+
+### Shorthand logo
+
+### Logo application
+
+### Logo clear space
+
+### Do not do
+
+### WelTel logo through the years
+
+## Colours
+
+### Brand Colours
+
+### Common Tints and Shades
+
+## Typography
+
+### Mulish
+
+### BC Sans
+
+### Website
+
+#### Font Sizes
+
+#### Bold Usage
+
+#### Italic Usage
+
+## Voice
+
+### Core Content Principles
+
+### Tone
+
+### Grammar and Punctuation guidelines
